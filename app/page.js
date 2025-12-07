@@ -170,7 +170,7 @@ export default function Home() {
           <div className="project-card">
             <div className="project-image">
               <Image 
-                src="/images/E-Library.png" 
+                src="/images/E-library.png" 
                 alt="E-Library System"
                 width={320}
                 height={200}
